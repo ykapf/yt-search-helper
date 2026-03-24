@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  width: 280px;
+  font-family:
+    ui-sans-serif,
+    system-ui,
+    -apple-system,
+    Segoe UI,
+    sans-serif;
+  background: #0f172a;
+}
+
+.popup {
+  padding: 14px;
+  color: #e2e8f0;
+}
+
+h2 {
+  font-size: 15px;
+  margin: 0 0 12px;
+}
+
+.toggle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+  font-size: 14px;
+}
+
+button {
+  width: 100%;
+  background: #1d4ed8;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1e40af;
+}
