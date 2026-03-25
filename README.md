@@ -1,5 +1,7 @@
 # YT Search Helper
 
+# THANK YOU TO MY FRIEND CRY-ABOUT-IT FOR HELPING ME WITH THIS PROJECT. I AM VERY GRATEFUL THAT HE HELPED ME WITH SOME ISSUES I WAS FACING WITH THE CODE TO MAKE THIS EXTENSION BETTER THAN IT WAS BEFORE. MANY SLEEPLESS MINUTES HAVE GONE INTO MAKING THIS EXTENSION ONG ON ZAZA.
+
 YT Search Helper is an independent browser extension that normalizes
 YouTube search navigation in Safari/Chromium browsers and reduces redirect
 noise.
