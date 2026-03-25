@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite build --watch",
     "build": "vite build",
+    "pack": "vite build && cd dist && zip -r ../yt-search-helper-chrome.zip .",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "lint": "eslint .",
